@@ -2,7 +2,8 @@
 **Email:** yul234@ucsd.edu  
 
 **Section:** B26
-**MentorS:** Ali Arsanjani and Sam Lau
+
+**Mentors:** Ali Arsanjani and Sam Lau
 
 ---
 
