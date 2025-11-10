@@ -8,7 +8,7 @@
 ---
 
 ### **1. What is the most interesting topic covered in your domain this quarter?**  
-The most interesting topic covered in my domain this quarter is learning how to employ generative models with predictive models.
+The most interesting topic covered in my domain this quarter is learning how to combine generative models with predictive models.
 
 ---
 
